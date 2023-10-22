@@ -1,5 +1,5 @@
 // Check if a string is a valid possible name. A valid name contains only letters and spaces and needs to contain at least 3 letters.
-function isValidName() {
+function isValidName(name) {
 
 }
 console.log(isValidName('Vl')) // Expected output: false
