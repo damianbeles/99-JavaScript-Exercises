@@ -2,4 +2,4 @@
 function sum(arr) {
 
 }
-console.log([2, 4, 1, 7]) // Expected output: 14
+console.log(sum(arr)) // Expected output: 14
